@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Todolist
 
-You can use the [editor on GitHub](https://github.com/StewartWallace1115/todolist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Todolist is a project that contains a todolist web app made from various types of technologies. The goal of this project is to compare the different types of front-end technologies. It was made in the following technologies:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Plain javascript with no additional libraries or frameworks
+*Jquery
+*VueJS
 
+Technologies to be used in the future:
+*Angular 
+*ReactJS
+*Asp.net (for full stack)
+*nodejs(for full stack)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StewartWallace1115/todolist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The landing page can be found here:
+https://stewartwallace1115.github.io/todolist/
