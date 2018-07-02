@@ -1,0 +1,18 @@
+body{
+	background: radial-gradient(#89f7fe, #66a6ff);
+  	background-repeat: no-repeat;
+}
+main {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: black;
+	font-size: 14pt;
+}
